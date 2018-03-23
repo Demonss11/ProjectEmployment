@@ -23,6 +23,7 @@ namespace ProjectEmployment
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
